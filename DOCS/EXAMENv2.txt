@@ -1,0 +1,8 @@
+Vincular repositori a carpeta:
+git init
+git remote add origin https://github.com/marioomendezz/examenm5uf2.git
+git pull origin main
+
+Fer el push:
+git add . 
+git push

@@ -35,3 +35,9 @@ git add .
 git commit -m "fusio P2"
 git push
 
+
+
+git branch -d p1
+git branch -d p2
+git push origin --delete p1
+git push origin --delete p2

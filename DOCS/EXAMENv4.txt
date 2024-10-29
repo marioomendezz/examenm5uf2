@@ -1,0 +1,37 @@
+Mario:
+git pull
+git add .
+git commit -m "Carpeta HTML"
+git push
+git pull
+git branch p1
+git branch p2
+git push --all
+git checkout p1
+git add .
+git commit -m "Modificacio P1
+git push --set-upstream origin p1
+git checkout main
+git merge p1
+git add .
+git commit -m "fusio P1"
+git push
+
+
+
+Adria:
+git pull
+git add .
+git commit -m "Modificacio HTML"
+git push
+git pull
+git checkout p2
+git add .
+git commit -m "Modificacio P2
+git push --set-upstream origin p2
+git checkout main
+git merge p2
+git add .
+git commit -m "fusio P2"
+git push
+
